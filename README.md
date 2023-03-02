@@ -21,3 +21,9 @@ samples, guidance on mobile development, and a full API reference.
 ![CHEESE!](sandip-roy-bAOcoCR50cs-unsplash.jpg)
 
 ![CHEESE!](/home/manarul/Downloads/sandip-roy-bAOcoCR50cs-unsplash.jpg)
+
+![bmi](/home/manarul/Desktop/Edspert/bmi_calculator/assets/images/bmi_input.jpg)
+
+![bmii](bmi_result.jpg)
+
+![bmi](/assets/images/bmi_input.jpg)
