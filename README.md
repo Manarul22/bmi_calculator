@@ -15,16 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+BMI Page Input
+<img src="/assets/images/bmi_input.jpg" width="400" height="700">
 
-![bmi-input](/home/manarul/Desktop/Edspert/books_app/assets/images/book1.jpg)
-
-![CHEESE!](sandip-roy-bAOcoCR50cs-unsplash.jpg)
-
-![CHEESE!](/home/manarul/Downloads/sandip-roy-bAOcoCR50cs-unsplash.jpg)
-
-![bmi](/home/manarul/Desktop/Edspert/bmi_calculator/assets/images/bmi_input.jpg)
-
-![bmii](bmi_result.jpg)
-
-![bmi](/assets/images/bmi_input.jpg)
-<img src="/assets/images/bmi_input.jpg" width="200" height="400">
+BMI Page Result
+<img src="/assets/images/bmi_input.jpg" width="500" height="800">
