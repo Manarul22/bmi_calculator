@@ -27,3 +27,4 @@ samples, guidance on mobile development, and a full API reference.
 ![bmii](bmi_result.jpg)
 
 ![bmi](/assets/images/bmi_input.jpg)
+<img src="/assets/images/bmi_input.jpg" width="200" height="400">
