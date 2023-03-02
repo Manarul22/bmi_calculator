@@ -16,7 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 BMI Page Input
+
 <img src="/assets/images/bmi_input.jpg" width="400" height="700">
 
+
 BMI Page Result
-<img src="/assets/images/bmi_input.jpg" width="500" height="800">
+
+<img src="/assets/images/bmi_result.jpg" width="400" height="800">
